@@ -1,7 +1,7 @@
 # Hi, I'm Adam 👋🏽 👨🏽‍💻
 
 ![](https://komarev.com/ghpvc/?username=adam20058&color=blue)
-<a href="https://www.linkedin.com/in/adamjemal/"> [![](https://img.shields.io/badge/linkedin-gray?style=flat-square&logo=linkedin&logoColor=white&link=)] </a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/adamjemal/"> [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white&link=)] </a>;
 [![Mail](https://img.shields.io/badge/-adamjemal93@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:adamjemal93@gmail.com)
 
 ## About me
