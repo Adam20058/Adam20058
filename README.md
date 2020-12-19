@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Adam
+# <img width="45" src="./image/waving.gif"> Hi! I'm Adam
 
 <p align="center">
 
@@ -16,7 +16,6 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-<div>
 <img src ="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python">&nbsp;
 <img src ="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">&nbsp;
 <img src ="https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC">&nbsp;
@@ -30,15 +29,11 @@
 <img src ="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">&nbsp;
 <img src ="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC">&nbsp;
 
- <img alt="Night Coding" src="./image/nightcoder.gif" align="right" display="block"/>
+ <!-- <img alt="Night Coding" src="./image/nightcoder.gif" align="right" display="block"/> -->
 
-</div>
-
-<div> 
 <h2> ⚙️ &nbsp;My Stats </h2>
 
 <img align = "left" src ="https://github-readme-stats.vercel.app/api?username=adam20058&show_icons=true&theme=algolia"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adam20058&layout=compact&langs_count=8&theme=algolia"/>
 
 </a>
-</div>
