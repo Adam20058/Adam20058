@@ -16,7 +16,7 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-  <img alt="Night Coding" src="./image/nightcoder.gif" align="right"/>
+  <!-- <img alt="Night Coding" src="./image/nightcoder.gif" align="right"/> -->
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
