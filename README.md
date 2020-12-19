@@ -34,9 +34,11 @@
 
 </div>
 
-## ⚙️ &nbsp;My Stats
+<div> 
+<h2> ⚙️ &nbsp;My Stats </h2>
 
 <img align = "left" src ="https://github-readme-stats.vercel.app/api?username=adam20058&show_icons=true&theme=algolia"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adam20058&layout=compact&langs_count=8&theme=algolia"/>
 
 </a>
+</div>
