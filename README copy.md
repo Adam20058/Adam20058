@@ -35,7 +35,10 @@
 
 <p align="center">
 
-<img align = "left" src ="https://github-readme-stats.vercel.app/api?username=adam20058&show_icons=true&theme=algolia"/>
+<a href="https://github.com/AVS1508">
+
+![Adam's stats](https://github-readme-stats.vercel.app/api?username=adam20058&show_icons=true&theme=algolia)
+
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adam20058&layout=compact&langs_count=8&theme=algolia"/>
 
 </a>
