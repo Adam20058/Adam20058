@@ -2,7 +2,7 @@
 
 <p align="center">
 
-![](https://komarev.com/ghpvc/?username=adam20058&color=blue)<a href="https://www.linkedin.com/in/adamjemal/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white&link=" /></a>
+![](https://komarev.com/ghpvc/?username=adam20058&color=blue)
 <a href="https://linkedin.com/in/adamjemal"><img src="https://img.shields.io/badge/-Adam%20Jemal%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:adamjemal93@gmail.com"><img src="https://img.shields.io/badge/-adamjemal93@gmail.com-grey?style=flat&logo=Gmail&logoColor=red"/></a>
 
