@@ -30,7 +30,7 @@
 <img src ="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">&nbsp;
 <img src ="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC">&nbsp;
 
- <img alt="Night Coding" src="./image/nightcoder.gif" align="right"/>
+ <img alt="Night Coding" src="./image/nightcoder.gif" align="right" display="block"/>
 
 </div>
 
