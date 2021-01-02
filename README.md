@@ -10,21 +10,22 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 <p>🎓 &nbsp;Hi! I'm currently a student at Seneca College and an aspiring Full-Stack developer </p>
-<p>💡 &nbsp;I love exploring new technologies, designing, and developing software solutions </p> 
-<p> ✍️ &nbsp;In my free time, I create small applications and websites for local businesses and love to play puzzle oriented games </p>
+<p>💡 &nbsp;I'm passionate about exploring new technologies, designing, problem solving, and packaging solutions in the best visual experience</p> 
+<p>✍️ &nbsp;Outside of school I create small applications and websites for local businesses </p>
+<p>😪 &nbsp;In my free time I love playing games centered around trivia and puzzles </p>
 <p> 🌱 &nbsp;Checkout my <a href = "https://www.adamjemal.com"> website </a> to view my current projects. </p>
 
 ## 🛠 &nbsp;Tech Stack
 
-<img src ="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python">&nbsp;
-<img src ="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">&nbsp;
-<img src ="https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC">&nbsp;
-<img src ="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C">&nbsp;
-<img src ="https://img.shields.io/badge/-React-05122A?style=flat&logo=react">&nbsp;
-<img src ="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js">&nbsp;
-<img src ="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C">
 <img src ="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5">&nbsp;
 <img src ="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6">&nbsp;
+<img src ="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C">
+<img src ="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">&nbsp;
+<img src ="https://img.shields.io/badge/-React-05122A?style=flat&logo=react">&nbsp;
+<img src ="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js">&nbsp;
+<img src ="https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC">&nbsp;
+<img src ="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C">&nbsp;
+<img src ="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python">&nbsp;
 <img src ="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">&nbsp;
 <img src ="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">&nbsp;
 <img src ="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC">&nbsp;
