@@ -9,10 +9,10 @@
 </p>
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
-<p>🎓 &nbsp;Hi! I'm currently a student at Seneca College and an aspiring Full-Stack developer </p>
-<p>💡 &nbsp;I'm passionate about exploring new technologies, designing, problem solving, and packaging solutions in the best visual experience</p> 
-<p>✍️ &nbsp;Outside of school I create small applications and websites for local businesses </p>
-<p>😪 &nbsp;In my free time I love playing games centered around trivia and puzzles </p>
+<p>🎓 &nbsp;Hi! I'm a Front-End Developer and currently a student at Seneca College. </p>
+<p>💡 &nbsp;I'm passionate about exploring new technologies, design, and the thrills that comes with solving challenging problems.</p> 
+<p>✍️ &nbsp;Outside of school I create small applications and websites for local businesses with the motto of "Packaging tailored solutions in the best visual experience".</p>
+<p>😪 &nbsp;In my free time I love playing games centered around puzzles and the occasional group card game.</p>
 <p> 🌱 &nbsp;Checkout my <a href = "https://www.adamjemal.com"> website </a> to view my current projects. </p>
 
 ## 🛠 &nbsp;Tech Stack
@@ -34,7 +34,7 @@
 
  <!-- <img alt="Night Coding" src="./image/nightcoder.gif" align="right" display="block"/> -->
 
-### ⚙️ &nbsp;My Stats
+## ⚙️ &nbsp;My Stats
 
 <p align="center">
 <a href="https://github.com/adam20058">
@@ -42,7 +42,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adam20058&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<!-- <img align = "left" src ="https://github-readme-stats.vercel.app/api?username=adam20058&show_icons=true&theme=algolia"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adam20058&layout=compact&langs_count=8&theme=algolia"/> -->
-
-<!-- </a> -->
