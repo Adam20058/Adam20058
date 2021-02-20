@@ -26,15 +26,23 @@
 <img src ="https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC">&nbsp;
 <img src ="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C">&nbsp;
 <img src ="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python">&nbsp;
+<img src ="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql">&nbsp;
 <img src ="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">&nbsp;
 <img src ="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">&nbsp;
+<img src ="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown">&nbsp;
 <img src ="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC">&nbsp;
 
  <!-- <img alt="Night Coding" src="./image/nightcoder.gif" align="right" display="block"/> -->
 
-<h2> ⚙️ &nbsp;My Stats </h2>
+### ⚙️ &nbsp;My Stats
 
-<img align = "left" src ="https://github-readme-stats.vercel.app/api?username=adam20058&show_icons=true&theme=algolia"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adam20058&layout=compact&langs_count=8&theme=algolia"/>
-
+<p align="center">
+<a href="https://github.com/adam20058">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adam20058&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adam20058&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+</p>
+<!-- <img align = "left" src ="https://github-readme-stats.vercel.app/api?username=adam20058&show_icons=true&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adam20058&layout=compact&langs_count=8&theme=algolia"/> -->
+
+<!-- </a> -->
