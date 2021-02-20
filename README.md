@@ -12,7 +12,7 @@
 <p>🎓 &nbsp;Hi! I'm a Front-End Developer and currently a student at Seneca College. </p>
 <p>💡 &nbsp;I'm passionate about exploring new technologies, design, and the thrills that comes with solving challenging problems.</p> 
 <p>✍️ &nbsp;Outside of school I create small applications and websites for local businesses with the motto of "Packaging tailored solutions in the best visual experience".</p>
-<p>😪 &nbsp;In my free time I love playing games centered around puzzles and the occasional group card game.</p>
+<p>😪 &nbsp;In my free time I love playing games centered around puzzles and the occasional game of "cards against humanity".</p>
 <p> 🌱 &nbsp;Checkout my <a href = "https://www.adamjemal.com"> website </a> to view my current projects. </p>
 
 ## 🛠 &nbsp;Tech Stack
