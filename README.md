@@ -9,10 +9,8 @@
 </p>
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
-<p>🎓 &nbsp;Hi! I'm a Software Developer and currently a student in College. </p>
+<p>🎓 &nbsp;Hi! I'm a Front-End Developer and currently a student at Seneca College. </p>
 <p>💡 &nbsp;I'm passionate about exploring new technologies, design, and the thrills that comes with solving challenging problems.</p> 
-<p>✍️ &nbsp;Outside of school I create small applications and websites for local businesses with the motto of "Packaging tailored solutions in the best visual experience".</p>
-<p>😪 &nbsp;In my free time I love playing games centered around puzzles and the occasional game of "cards against humanity".</p>
 <p> 🌱 &nbsp;Checkout my <a href = "https://www.adamjemal.com"> website </a> to view my current projects. </p>
 
 ## 🛠 &nbsp;Tech Stack
@@ -31,8 +29,6 @@
 <img src ="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">&nbsp;
 <img src ="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown">&nbsp;
 <img src ="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC">&nbsp;
-
- <!-- <img alt="Night Coding" src="./image/nightcoder.gif" align="right" display="block"/> -->
 
 ## ⚙️ &nbsp;My Stats
 
