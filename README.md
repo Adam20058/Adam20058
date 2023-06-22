@@ -9,7 +9,7 @@
 </p>
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
-<p>🎓 &nbsp;Hi! I'm a Software Developer and currently a student at Seneca College, based in Toronto, Canada. </p>
+<p>🎓 &nbsp;Hi! I'm an aspiring Software Developer, based in Toronto, Canada. </p>
 <p>💡 &nbsp;I'm passionate about exploring new technologies, design, and the thrills that comes with solving challenging problems.</p> 
 <p> 🌱 &nbsp;Checkout my <a href = "https://www.adamjemal.com"> website </a> to view my current projects. </p>
 
